@@ -4,6 +4,7 @@ the env variable are set in .env file
 by default the host is localhost and the port is 4000
 
 The endpoint "/allBerryStats" returns the following structure:
+```{json}
     Response: {
         "berries_names": [...],
         "min_growth_time": "" // time, int
@@ -13,7 +14,7 @@ The endpoint "/allBerryStats" returns the following structure:
         "mean_growth_time": "", // time, float
         "frequency_growth_time": "", // time, {growth_time:    frequency, ...}
     }
-
+```
 The endpoint "/allBerryFrequency" will return an html page with a histogram of the frequency_growth_time 
 
 ## Execution instructions
