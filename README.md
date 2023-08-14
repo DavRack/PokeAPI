@@ -16,7 +16,7 @@ The endpoint ["/allBerryStats"](https://pokeapi-edhe.onrender.com/allBerryStats)
     }
 ```
 The endpoint ["/allBerryFrequency"](https://pokeapi-edhe.onrender.com/allBerryFrequency) will return an html page with a histogram of the frequency_growth_time 
-
+this project has been deployed to render.com
 ## Execution instructions
 
 ## Dependencies
