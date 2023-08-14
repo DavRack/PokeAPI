@@ -26,21 +26,22 @@ The endpoint "/allBerryFrequency" will return an html page with a histogram of t
 - virtualenv
 
 ### Create a python env
-
+```
  python -m venv env
-
+```
 ### Initialize python env
-
+```
 source env/bin/activate
-
+```
 ### Install dependencies
-
+```
 pip install -r requirements.txt
-
+```
 ### Install dependencies
-
+```
 pip install -r requirements.txt
-
+```
 ### Run app
-
+```
 python main.py
+```
